@@ -9,3 +9,4 @@ Ideias de estudos e análises a serem realizadas
 
 ### Referências
 * http://www1.folha.uol.com.br/mercado/2016/01/1734449-lucro-do-bradesco-avanca-139-em-2015-e-atinge-r-172-bilhoes.shtml?cmpid=facefolha
+* http://www1.folha.uol.com.br/mercado/2016/01/1733981-lucro-do-santander-brasil-cai-78-no-4-trimestre-para-r-117-bilhao.shtml
